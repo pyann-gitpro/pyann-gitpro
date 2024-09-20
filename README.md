@@ -17,10 +17,10 @@
 ## 🙏LOOKINGFOR 
 
 - Après la ✨✨réussite✨✨ de la certification de Développeur Web / Web mobile, je poursuis ma reconversion professionnelle 💪 dans l'Analyse des données et spécialement en tant que ✨Data Analyst - Développeur en Intelligence Artificielle✨.
-- Actuellement en SAAS Dev IA à *Ecole IA Microsoft By SIMPLON* dans le sud marseillais 😄
+- Actuellement en SAAS Dev IA à **Ecole IA Microsoft By SIMPLON** dans le sud marseillais 😄
 - En intensif, le langage `Python` et ses librairies ⚡, Statistiques, **Mathématiques** ou **Science des données**
-- Pour cette voie professionelle, je recherche une alternance de 12 mois (**rythme = 3 semaines entreprise / 1 semaine formation**) à partir de septembre 2024 jsuqu'à mars 2026.
-- Je serai ravi d'échanger avec vous et de vous partager mes premières expériences informatiques. 💪
+- Pour cette voie professionelle, je recherche une alternance (**rythme = 3 semaines entreprise / 1 semaine formation**) de septembre 2024 jsuqu'à mars 2026.
+- Je serai ravi d'échanger avec vous et de vous partager mes premières expériences digitales. 💪
 
 - 📫 How to reach me - Comment me joindre : linkedIn = https://www.linkedin.com/in/yann-paaeho
 
