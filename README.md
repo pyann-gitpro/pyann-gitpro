@@ -3,13 +3,14 @@
 
 ## 🖐DESCRIPTION
 
-> 31 ans / De l'*Avionique* à la *Data Science* , après quelques années dans le monde de l'aéronautique militaire, je pose mes valises dans le monde de la "tech". C'est un domaine en constante évolution, et requiert beaucoup de patience, de discipline et d'organisation. L'expérience passée m'aidera humblement à remplir ses qualités nécessaire à cette nouvelle "CHAPELLE" professionnelle.
+> 32 ans / De l'**Avionique** à la **Data Science** , après quelques années dans le monde de l'aéronautique militaire, je pose mes valises dans le monde de la *"tech"*. C'est un domaine en constante évolution, et requiert beaucoup de patience, de discipline et d'organisation. L'expérience passée m'aidera humblement à remplir ses qualités nécessaire à cette nouvelle "CHAPELLE" professionnelle.
 
 ## ⚓SOFT SKILLS
 
-- 👯 JavaScript, PHP, mySQL, Python
-- 🔭 Technologies diverses pour mon initiation à *l'analyse de donnée* : `numpy`, `matplotlib`, `pandas`, `seaborn`, `pytest`, `github Actions`, `cryptography`
-- 🌱 AJAX, Serveur APACHE, PHPMyAdmin, RegExp
+- 👯 `JavaScript`, `PHP`, `SQL`, `Python`, `Git`
+- 🔭 Technologies diverses pour mon initiation à **l'analyse de donnée** : `numpy`, `matplotlib`, `pandas`, `seaborn`, `pytest`, `github Actions`, `hashlib` ect...
+- 🌱 Test Unitaire, JuPytR notebook, Serveur APACHE, PHPMyAdmin, RegExp, Programmation Orientée Objet
+- 📫 Environnement : `LINUX` / `WINDOWS`
 - 💪 Notions de Web Design, UI/UX (Formateur : Pierre MURCIA)
 - ✨ Projet d'équipe (création de site web + gestion de base de donnée)
 
@@ -25,7 +26,7 @@
 
 
 <!--
-**cybtetuanui92/cybtetuanui92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pyann-gitpro/pyann-gitpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
