@@ -7,7 +7,7 @@
 
 ## ⚓SOFT SKILLS
 
-- 👯 `JavaScript`, `PHP`, `SQL`, `Python`, `Git`
+- 👯 `Python`, `JavaScript`, `PHP`, `SQL`, `Microsoft PowerBI`, `Git`
 - 🔭 Technologies diverses pour mon initiation à **l'analyse de donnée** : `numpy`, `matplotlib`, `pandas`, `seaborn`, `pytest`, `github Actions` ect...
 - 🌱 Test Unitaire, JuPytR notebook, Serveur APACHE, PHPMyAdmin, RegExp, Programmation Orientée Objet
 - 📫 Environnement : `LINUX` / `WINDOWS`
