@@ -16,7 +16,7 @@ I help companies design, build and scale digital products with a strong focus on
 **🎨 Frontend**
 - Angular
 - Flutter
-- Vue.js
+- Next.js
 
 **🔧 Backend**
 - FastAPI (Python)
@@ -30,11 +30,12 @@ I help companies design, build and scale digital products with a strong focus on
 
 **🗄️ Database**
 - PostgreSQL
+- MongoDB
 - SQLite
 
 **🚀 DevOps**
-- Docker
-- Linux
+- Docker (Kubernetes)
+- Linux / Windows
 - VPS / Cloud deployment
 
 ## 📌 Selected Work
